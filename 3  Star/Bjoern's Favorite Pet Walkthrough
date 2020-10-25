@@ -2,5 +2,5 @@ This challenge requires recon on the juice shop site. This work includes reviewi
 * Go to the logon screen and click Forgot your password?
 * Enter the email address of the user who's security question you'd like to know 
 * Attempt to reset the password with a random security question answer
-What does the request say?
+What does the response to this request say?
 * Find the answer to that question and try again.
