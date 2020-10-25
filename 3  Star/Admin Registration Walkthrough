@@ -1,0 +1,7 @@
+* Use Burp Suite
+* Look at the Response it sends to the post request when you upload a picture to the Photo Wall.
+* Send that post request to Repeater
+* Edit the body of the post request
+* Copy the admin assignment line from the Photo Wall Response
+* Send the modified Request, but modify the username to be a new user or just change all of the fields to be a new admin user
+* Ta Da!
