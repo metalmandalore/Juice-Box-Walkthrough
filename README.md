@@ -1,4 +1,4 @@
-# OWASP Juice-Box-Walkthrough
+# OWASP Juice-Shop-Walkthrough
 Guide to learning and practicing juice box for begginers. There are no specific hints contained on this readme page. I ellude to several, but if you have performed a web challenge before, performed vulnerability scanning, or attempted to fuzz the code for you website or any website this will not be new information. The very vague hints presented here is simply good background information for beginners that they may not already have.
 
 ## Prerequisites
