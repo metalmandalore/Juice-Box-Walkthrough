@@ -1,1 +1,0 @@
-Challenges like Juice Box are used in CTFs and contain a score board. Where is yours? How would you find it? Hints for this are located under the Score Board.md file under the Hints and Helpful Skills folder.
