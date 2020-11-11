@@ -4,7 +4,7 @@ What information is easily discoverable without the use of credentials that shou
 </br>
 </br>
 *Background Knowledge* </br>
-https://zvelo.com/base-domain-url-vs-full-path-url-whats-the-difference/
+https://zvelo.com/base-domain-url-vs-full-path-url-whats-the-difference/ </br>
 https://domains.google/intl/en/learn/the-difference-between-a-url-domain-website-more.html#/
 
 Helpful information to consider:</br>
