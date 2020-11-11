@@ -4,12 +4,13 @@ What information is easily discoverable without the use of credentials that shou
 </br>
 </br>
 *Background Knowledge* </br>
-What is a URI?
+https://zvelo.com/base-domain-url-vs-full-path-url-whats-the-difference/
+https://domains.google/intl/en/learn/the-difference-between-a-url-domain-website-more.html#/
 
 Helpful information to consider:</br>
 <ul>
-<li> are the URIs 
+  <li> What are the paths for this domain?</li> 
 </ul>
 ## 1 Star
 Where to start</br>
-It's helpful to consider where 
+It's helpful to consider what the path for a scoreboard might be called, and attempt to try adding different versions of this path name to the URL. 
