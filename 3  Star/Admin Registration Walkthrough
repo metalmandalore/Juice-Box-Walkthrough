@@ -5,3 +5,5 @@
 * Copy the admin assignment line from the Photo Wall Response
 * Send the modified Request, but modify the username to be a new user or just change all of the fields to be a new admin user
 * Ta Da!
+</br>
+Needs to be broken out into the specific Tampering step, and then the specific PrivEsc step
