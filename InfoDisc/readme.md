@@ -11,6 +11,5 @@ Helpful information to consider:</br>
 <ul>
   <li> What are the paths for this domain?</li> 
 </ul>
-## 1 Star
-Where to start</br>
+## Where to start
 It's helpful to consider what the path for a scoreboard might be called, and attempt to try adding different versions of this path name to the URL. 
