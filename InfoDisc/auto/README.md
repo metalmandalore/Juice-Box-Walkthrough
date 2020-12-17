@@ -35,6 +35,13 @@ Errors
   <li>if invalid flag is used, stop and return -h flag info as if that had been entered</li>
   <li>if any special characters are used except for - return nice try and stop</li>
   <li>if any unexpected input is used fail and stop</li>
+  <li>if webscrapping fails unexpectedly stop and report failure</li>
+  <li>if file creation fails stop and report failure</li>
+  <li>if file write fails stop and report failure</li>
+  <li>if file read fails stop and report failure</li>
+  <li>if executable fails stop and report failure</li>
+  <li>create time-out options where if nothing is currenlty in process for x amount of time, report timeout error</li>
+  <li>after x amount of timeout errors stop<li>
  </ol>
  
 ## New Tools coming soon
