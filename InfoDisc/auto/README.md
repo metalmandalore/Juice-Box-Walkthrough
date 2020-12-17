@@ -35,4 +35,6 @@ Errors
   <li>if invalid flag is used, stop and return -h flag info as if that had been entered</li>
   <li>if any special characters are used except for - return nice try and stop</li>
   <li>if any unexpected input is used fail and stop</li>
+ </ol>
+ 
 ## New Tools coming soon
