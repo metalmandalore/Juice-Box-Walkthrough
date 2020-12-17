@@ -8,7 +8,7 @@ Download burpsuite community edition and have it installed and configured as a p
 
 
 ## Setup
-docker pull mkimminich/juice-shop<br /> 
+docker pull bkimminich/juice-shop<br /> 
 docker run --rm -p 3000:3000 bkimminich/juice-shop --tag OWASPjuice<br /> 
 
 Recommendation - use one browser for Juice shop, and only juice shop. Use a separate browser for searching and anything else.
