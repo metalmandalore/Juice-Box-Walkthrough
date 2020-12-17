@@ -13,4 +13,5 @@ Design stepthrough
 <li>write scrapped words into new file as paths, building paths up to 8 directories deep</li>
 <li>Inform user file is copmleted by telling them how many lines were written to directories.txt</li>
 </ol>
+
 ## New Tools coming soon
