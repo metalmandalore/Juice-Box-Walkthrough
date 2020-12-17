@@ -41,7 +41,7 @@ Errors
   <li>if file read fails stop and report failure</li>
   <li>if executable fails stop and report failure</li>
   <li>create time-out options where if nothing is currenlty in process for x amount of time, report timeout error</li>
-  <li>after x amount of timeout errors stop<li>
+  <li>after x amount of timeout errors stop</li>
  </ol>
  
 ## New Tools coming soon
