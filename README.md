@@ -18,12 +18,12 @@ Burp suite always starts out with Proxy > Intercept on. Change this setting to o
 View the browsing history under Proxy > HTTP history<br /> 
 
 ## How it Works
-In general CTFs present us with a wide variety of issues in a gamified formula to demonstrate real world security vulnerabilites. These systems allow security researchers to practice their skills and level up. Do do this effectively take a copious amount of notes, in a format that you find easy to read and understand. It's difficult to know where to begin and know how to approach issues if you've never done it before. The following sections below assist with that. Subfolders are organized accordign to how many Stars each issue has been assigned for this excercise. Each folder contains hints that are written to be thought provoking questions that will hopefully provide newcomers with a better idea behind the often resulting questions that come to mind during and after participating in a CTF or simililar hacking challenges. 
+In general CTFs present us with a wide variety of issues in a gamified formula to demonstrate real world security vulnerabilites. These systems allow security researchers to practice their skills and level up. Do do this effectively take a copious amount of notes, in a format that you find easy to read and understand. It's difficult to know where to begin and know how to approach issues if you've never done it before. The following sections below assist with that. Subfolders are organized according to how many Stars each issue has been assigned for this exercise. Each folder contains hints that are written to be thought provoking questions that will hopefully provide newcomers with a better idea behind the often resulting questions that come to mind during and after participating in a CTF or similar hacking challenges. 
 * How would I ever know to do that?
 * How did someone else figure this out?
 * Why would you do it like that?
 <br /> 
-This walkthrough is more focused on crtical thinking required for a hacker mindset and the methodology behind finding vulnerabilities and exploiting them.
+This walkthrough is more focused on critical thinking required for a hacker mindset and the methodology behind finding vulnerabilities and exploiting them.
 
 ## Challenge/CTF/Hacking Methodology
 ### Recon
